@@ -1,4 +1,4 @@
-### Hi there, I'm Kiri. I am a physicist turned data scientist and formerly conducted research in high energy particle physics and cosmology at MIT and UIUC.
+Hi there, I'm Kiri. I am a physicist turned data scientist and formerly conducted research in high energy particle physics and cosmology at MIT and UIUC.
 
 <!--
 **khilbert/khilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
