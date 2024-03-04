@@ -1,4 +1,5 @@
-Hi, I'm Kiriakos. I am a data scientist and former theoretical physicist. I used to research topics in early universe cosmology and gravitation at MIT and UIUC and am now looking to port all of my skills and experience from years as a research scientist into a new career as a data scientist. 
+### Welcome! 👋
+My name is Kiriakos Hilbert and I am a former theoretical physicist turned data scientist. I used to research topics in early universe cosmology and gravitation at MIT and UIUC and am now looking to port my training and experience from years as a research scientist into a new career as a data scientist. 
 <!--
 **khilbert/khilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
