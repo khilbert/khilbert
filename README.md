@@ -1,4 +1,4 @@
-Hi, I'm Kiri -- I'm a data scientist and physicist. I was a student at MIT studying early universe cosmology and primordial black holes and then a PhD student and research scientist at UIUC studying cosmological inflation. 
+Hi, I'm Kiriakos. I am a data scientist and former theoretical physicist. I used to research topics in early universe cosmology and gravitation at MIT and UIUC. I'm now looking to port all of my skills and experience from years as a research scientist into a new career as a data scientist. 
 <!--
 **khilbert/khilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
