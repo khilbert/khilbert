@@ -1,5 +1,4 @@
-👋 My name is Kiriakos Hilbert. I am a physicist turned data scientist and formerly conducted research in high energy particle physics and cosmology at MIT and UIUC.
-
+Hi, I'm Kiri -- I'm a data scientist and physicist. I was a student at MIT studying early universe cosmology and primordial black holes and then a PhD student and research scientist at UIUC studying cosmological inflation. 
 <!--
 **khilbert/khilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
