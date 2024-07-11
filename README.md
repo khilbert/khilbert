@@ -1,6 +1,4 @@
-### Welcome! 👋
-My name is Kiriakos Hilbert. As a physicist, I used to research topics in early universe cosmology and gravitation at MIT and UIUC. 
-I'm now looking port my training and experience from years as a research scientist into a new career as a data scientist. You'll find a collection of personal projects and exercises here that I've used to sharpen my skills in data science and machine learning.
+
 <!--
 **khilbert/khilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
